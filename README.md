@@ -5,9 +5,15 @@
 Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN models, and scalable microservices.
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/04/4b/8a/044b8adf341140ae6562f58732b1c03e.gif" 
+       alt="Lofi boy coding" 
+       width="420" />
+</p>
+
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech in CSE (DS & AI), SRM University Haryana  
 - 🤖 Architecting real-world **Generative AI & RAG systems**  
@@ -52,26 +58,20 @@ Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN mo
 ## 🚀 Featured Projects
 
 ### 🔹 **PaperGen – Enterprise Generative AI Platform**
-📌 *Architected a full RAG pipeline with zero information loss on 200+ page PDFs.*  
+📌 *Production-grade RAG system with zero information loss on 200+ page PDFs.*  
 - Hybrid Search: Keyword + Semantic (FAISS + Gemini)  
-- Microservices backend: FastAPI, LangChain  
-- Next.js frontend for multimodal querying  
-- Dockerized deployment on Vercel & Railway  
+- FastAPI + LangChain microservices  
+- Next.js multimodal UI  
+- Docker deployment on Vercel + Railway  
 **Tech:** Next.js, FastAPI, LangChain, FAISS, Gemini, Docker  
 
 ---
 
-### 🔹 **Potato Disease Classification (CNN + Full Deployment)**
-Custom CNN with **90%+ accuracy** for Early/Late Blight & Healthy leaves.  
-- FastAPI backend + TF Serving + Docker  
+### 🔹 **Potato Disease Classification (CNN + Deployment)**
+- Custom CNN achieving **90%+ accuracy**  
+- FastAPI backend + TensorFlow Serving  
 - React.js UI for prediction  
-**Tech:** TensorFlow, FastAPI, React, Docker  
-
----
-
-### 🔹 **Jarvis – Voice Assistant**
-AI-powered Python assistant with voice commands, API integrations & Q/A.  
-**Tech:** SpeechRecognition, pyttsx3, WolframAlpha API  
+**Tech:** TensorFlow, FastAPI, Docker, React  
 
 ---
 
@@ -87,10 +87,10 @@ AI-powered Python assistant with voice commands, API integrations & Q/A.
 ## 🤝 Connect With Me
 
 - 🌐 Portfolio: https://ansh4303-portfolio.vercel.app/#home
-- 💼 LinkedIn: your-linkedin  
+- 💼 LinkedIn: https://www.linkedin.com/in/ansh-nimboria/
 - 🐙 GitHub: github.com/Opsitsansh  
-- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com
+- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com  
 
 ---
 
-⭐ **Always open to collaborations in AI, GenAI systems, and full-stack machine learning projects.**
+⭐ *Always open to collaborations in AI, GenAI systems, and full-stack ML projects.*
