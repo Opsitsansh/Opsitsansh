@@ -1,26 +1,24 @@
-<!-- PROFILE VIEWS + BADGES (optional) -->
+<!-- PROFILE VIEWS -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <!-- TYPING ANIMATION INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing Animation" />
   </a>
 </p>
 
 <h3 align="center">Full Stack AI Engineer • Generative AI • MLOps • FastAPI • Next.js</h3>
 
 <p align="center">
-  Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN models, and scalable microservices.
+Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN models, and scalable microservices.
 </p>
 
-<!-- LOFI CODING GIF -->
+<!-- PIXEL ART CODER IMAGE -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/04/4b/8a/044b8adf341140ae6562f58732b1c03e.gif" 
-       alt="Lofi boy coding" 
-       width="420" />
+  <img src="https://i.imgur.com/pqDeRLN.png" alt="Coder Pixel Art" width="700"/>
 </p>
 
 ---
@@ -80,9 +78,9 @@
 ---
 
 ### 🔹 Potato Disease Classification (CNN + Deployment)
-- Custom CNN achieving **90%+ accuracy** on PlantVillage dataset  
+- Custom CNN achieving **90%+ accuracy**  
 - FastAPI backend + TensorFlow Serving  
-- React.js UI for prediction  
+- React.js UI  
 **Tech:** TensorFlow, FastAPI, Docker, React  
 
 ---
@@ -98,11 +96,12 @@
 
 ## 🤝 Connect With Me
 
+- 💼 LinkedIn:  https://www.linkedin.com/in/ansh-nimboria/
 - 🌐 Portfolio: https://ansh4303-portfolio.vercel.app/#home
-- 💼 LinkedIn: https://www.linkedin.com/in/ansh-nimboria/  
-- 🐙 GitHub: (https://github.com/Opsitsansh)  
-- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com 
+- 🐙 GitHub: https://github.com/Opsitsansh  
+- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com  
 
 ---
 
 ⭐ *Always open to collaborations in AI, GenAI systems, and full-stack ML projects.*
+
