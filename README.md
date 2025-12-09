@@ -18,20 +18,14 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <br> <ul>
-        <li>
-          🌱 <b>Continually upskilling</b> in emerging technologies and architectural patterns
-        </li>
-        <li>
-          💼 <b>Developing industry-grade solutions</b> that solve real-world business problems
-        </li>
-        <li>
-          🧩 <b>Bridging the gap</b> between theoretical concepts and production-ready deployments
-        </li>
-        <li>
-          ⚡ <b>Focus:</b> Building scalable, efficient, and maintainable software
-        </li>
-      </ul>
+      <br>
+      🌱 <b>Continually upskilling</b> in emerging technologies, specifically focusing on advanced Generative AI patterns, LLM orchestration, and distributed system design.
+      <br><br>
+      💼 <b>Developing industry-grade solutions</b> that solve real-world business problems by integrating robust backend architectures with intuitive frontend interfaces.
+      <br><br>
+      🧩 <b>Bridging the gap</b> between theoretical concepts and production-ready deployments, ensuring that research-quality models function reliably in live environments.
+      <br><br>
+      ⚡ <b>Focus:</b> Building scalable, efficient, and maintainable software that adheres to modern engineering best practices and clean code principles.
     </td>
 
     </td>
