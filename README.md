@@ -1,49 +1,50 @@
+<!-- PROFILE VIEWS -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<!-- TYPING ANIMATION INTRO -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing Animation" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing Animation" />
+  </a>
 </p>
 
 <h3 align="center">A passionate Full Stack AI Engineer from Delhi, India</h3>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <br />
-      <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-      <br /><br />
-      
-      <ul>
-        <li>🌱 I’m currently working on <b>PaperGen – an Enterprise GenAI platform</b></li>
-        <li>🧠 Exploring <b>RAG systems, LLM orchestration, and MLOps</b></li>
-        <li>💻 I regularly build <b>FastAPI backends, Next.js frontends</b></li>
-        <li>🧩 I enjoy solving <b>end-to-end problems</b>: data → model → API</li>
-        <li>⚡ Fun fact: <b>Night coding + lo-fi beats = peak productivity</b></li>
-      </ul>
+<!-- MAIN HERO SECTION: TEXT + GIF SIDE BY SIDE -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-      <br />
-      <b>Connect with me:</b>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/ansh-nimboria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://github.com/Opsitsansh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="mailto:anshnimboria4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      </p>
-    </td>
+      - 🌱 I’m currently working on **PaperGen – an Enterprise Generative AI platform**  
+      - 🧠 Exploring **RAG systems, LLM orchestration, and MLOps pipelines**  
+      - 💻 I regularly build **FastAPI backends, Next.js frontends, and AI microservices**  
+      - 🧩 I enjoy solving **end-to-end problems**: data → model → API → deployment  
+      - ⚡ Fun fact: **Night coding + lo-fi beats = peak productivity**  
 
-    <td width="45%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" alt="Coder Pixel Art" width="100%"/>
-    </td>
-  </tr>
+    </td>
+    <td width="45%" align="center" valign="top">
+
+      <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" alt="Coder Pixel Art" width="420"/>
+
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in CSE (DS & AI)** — SRM University Haryana  
-- 🤖 Architecting real-world **Generative AI, RAG & LLM-powered systems** - 🧠 Experienced with **TensorFlow, PyTorch, LangChain, FastAPI, Next.js, Docker** - ☁️ Deploying on **Vercel, Railway, Google Cloud, Docker** - 💼 Passionate about **AI architecture, microservices & scalable backend systems** ---
+- 🎓 **B.Tech in CSE (DS & AI)** — SRM University Haryana  
+- 🤖 Architecting real-world **Generative AI, RAG & LLM-powered systems**  
+- 🧠 Experienced with **TensorFlow, PyTorch, LangChain, FastAPI, Next.js, Docker**  
+- ☁️ Deploying on **Vercel, Railway, Google Cloud, Docker**  
+- 💼 Passionate about **AI architecture, microservices & scalable backend systems**  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -82,40 +83,51 @@
 ## 🚀 Featured Projects
 
 ### 🔹 PaperGen – Enterprise Generative AI Platform
-📌 Production-grade RAG system with **zero information loss on 200+ page PDFs**.  
+📌 Production-grade RAG system with **zero information loss on 200+ page PDFs**.  
 
-- Hybrid Search: **Keyword + Semantic (FAISS + Gemini)** - **FastAPI + LangChain** microservices  
-- **Next.js** multimodal frontend  
-- Containerized with **Docker**, deployed via **Railway + Vercel** **Tech:** Next.js · FastAPI · LangChain · FAISS · Gemini · Docker  
+- Hybrid Search: **Keyword + Semantic (FAISS + Gemini)**  
+- **FastAPI + LangChain** microservices  
+- **Next.js** multimodal frontend  
+- Containerized with **Docker**, deployed via **Railway + Vercel**  
+
+**Tech:** Next.js · FastAPI · LangChain · FAISS · Gemini · Docker  
 
 ---
 
 ### 🔹 Potato Disease Classification (CNN + Deployment)
-- Custom CNN achieving **90%+ accuracy** on potato leaf images  
-- **FastAPI backend** with TensorFlow Serving  
-- **React.js UI** for predictions and visualization  
+- Custom CNN achieving **90%+ accuracy** on potato leaf images  
+- **FastAPI backend** with TensorFlow Serving  
+- **React.js UI** for predictions and visualization  
 
-**Tech:** TensorFlow · FastAPI · Docker · React  
+**Tech:** TensorFlow · FastAPI · Docker · React  
 
 ---
 
 ### 🔹 Jarvis – Python Voice Assistant
-- Voice commands for **search, apps, and automation** - **WolframAlpha** integration for Q/A  
-- Offline **text-to-speech** & basic assistant features  
+- Voice commands for **search, apps, and automation**  
+- **WolframAlpha** integration for Q/A  
+- Offline **text-to-speech** & basic assistant features  
 
-**Tech:** Python · pyttsx3 · speech_recognition · WolframAlpha API  
+**Tech:** Python · pyttsx3 · speech_recognition · WolframAlpha API  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Opsitsansh&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opsitsansh&layout=compact&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Opsitsansh&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opsitsansh&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
-<p align="center">
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/ansh-nimboria](https://www.linkedin.com/in/ansh-nimboria)  
+- 🌐 Portfolio: [ansh4303-portfolio.vercel.app](https://ansh4303-portfolio.vercel.app/#home)  
+- 🐙 GitHub: [github.com/Opsitsansh](https://github.com/Opsitsansh)  
+- 📧 Email: **anshnimboria4@gmail.com**  
+
+---
+
 ⭐ *Always open to collaborations in AI, GenAI systems, and full-stack ML projects.*
-</p>
