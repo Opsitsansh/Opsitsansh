@@ -1,6 +1,6 @@
 <!-- PROFILE VIEWS -->
 <p align="right">
-  <img src="https://files.catbox.moe/3h7p9m.gif" alt="Coder Animation" width="700"/>
+  <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" width="800">
 </p>
 
 <!-- TYPING ANIMATION INTRO -->
