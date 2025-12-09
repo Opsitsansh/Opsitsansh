@@ -1,10 +1,22 @@
-<h1 align="center">👋 Hi, I'm <b>Ansh Kumar Nimboria</b></h1>
+<!-- PROFILE VIEWS + BADGES (optional) -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- TYPING ANIMATION INTRO -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">Full Stack AI Engineer • Generative AI • MLOps • FastAPI • Next.js</h3>
 
 <p align="center">
-Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN models, and scalable microservices.
+  Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN models, and scalable microservices.
 </p>
 
+<!-- LOFI CODING GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/04/4b/8a/044b8adf341140ae6562f58732b1c03e.gif" 
        alt="Lofi boy coding" 
@@ -57,8 +69,8 @@ Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN mo
 
 ## 🚀 Featured Projects
 
-### 🔹 **PaperGen – Enterprise Generative AI Platform**
-📌 *Production-grade RAG system with zero information loss on 200+ page PDFs.*  
+### 🔹 PaperGen – Enterprise Generative AI Platform
+📌 Production-grade RAG system with zero information loss on 200+ page PDFs.  
 - Hybrid Search: Keyword + Semantic (FAISS + Gemini)  
 - FastAPI + LangChain microservices  
 - Next.js multimodal UI  
@@ -67,8 +79,8 @@ Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN mo
 
 ---
 
-### 🔹 **Potato Disease Classification (CNN + Deployment)**
-- Custom CNN achieving **90%+ accuracy**  
+### 🔹 Potato Disease Classification (CNN + Deployment)
+- Custom CNN achieving **90%+ accuracy** on PlantVillage dataset  
 - FastAPI backend + TensorFlow Serving  
 - React.js UI for prediction  
 **Tech:** TensorFlow, FastAPI, Docker, React  
@@ -78,8 +90,8 @@ Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN mo
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Opsitsansh&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opsitsansh&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Opsitsansh&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opsitsansh&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
@@ -87,9 +99,9 @@ Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN mo
 ## 🤝 Connect With Me
 
 - 🌐 Portfolio: https://ansh4303-portfolio.vercel.app/#home
-- 💼 LinkedIn: https://www.linkedin.com/in/ansh-nimboria/
-- 🐙 GitHub: github.com/Opsitsansh  
-- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ansh-nimboria/  
+- 🐙 GitHub: (https://github.com/Opsitsansh)  
+- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com 
 
 ---
 
