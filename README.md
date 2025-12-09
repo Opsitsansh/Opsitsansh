@@ -11,7 +11,6 @@
 </p>
 
 <h3 align="center">A passionate Full Stack AI Engineer from Delhi, India</h3>
-<!-- MAIN HERO SECTION: TEXT + GIF SIDE BY SIDE -->
 <table>
   <tr>
     <td width="55%" valign="top">
