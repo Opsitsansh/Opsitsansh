@@ -18,7 +18,6 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <br>
       🌱 <b>Continually upskilling</b> in emerging technologies, specifically focusing on advanced Generative AI patterns, LLM orchestration, and distributed system design.
       <br><br>
       💼 <b>Developing industry-grade solutions</b> that solve real-world business problems by integrating robust backend architectures with intuitive frontend interfaces.
