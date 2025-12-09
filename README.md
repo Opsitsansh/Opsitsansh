@@ -10,33 +10,25 @@
   </a>
 </p>
 
-<h3 align="center">A passionate AI & full-stack engineer from Delhi, India</h3>
+<h3 align="center">A passionate Full Stack AI Engineer from Delhi, India</h3>
 
-<p align="center">
-  Building production-grade AI systems: RAG pipelines, multimodal LLM apps, CNN models, and scalable microservices.
-</p>
+---
 
-<br/>
-
-<!-- INTRO + CODER GIF IN TWO COLUMNS -->
+<!-- MAIN HERO SECTION: TEXT + GIF SIDE BY SIDE -->
 <table>
   <tr>
-    <td width="55%">
+    <td width="55%" valign="top">
 
-      <h3>⚡ What I'm currently up to</h3>
-
-      - 🔭 Currently building production-grade **Generative AI / RAG systems** <br/>
-      - 🌱 Deep-diving into **MLOps, vector databases, and scalable microservices** <br/>
-      - 🧪 Experimenting with **multimodal LLM apps** (text + PDF + images) <br/>
-      - 🧠 Love working with **TensorFlow, LangChain, FastAPI, Next.js & Docker** <br/>
-      - 💬 Ask me about **RAG architectures, FastAPI backends, or Next.js frontends** <br/>
-      - 🎯 Goal: ship clean, reliable AI products — not just cool demos 😉
+      - 🌱 I’m currently working on **PaperGen – an Enterprise Generative AI platform**  
+      - 🧠 Exploring **RAG systems, LLM orchestration, and MLOps pipelines**  
+      - 💻 I regularly build **FastAPI backends, Next.js frontends, and AI microservices**  
+      - 🧩 I enjoy solving **end-to-end problems**: data → model → API → deployment  
+      - ⚡ Fun fact: **Night coding + lo-fi beats = peak productivity**  
 
     </td>
-    <td width="45%" align="center">
+    <td width="45%" align="center" valign="top">
 
-      <!-- PIXEL ART CODER IMAGE (YOUR GIF) -->
-      <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" alt="Coder at desk" width="400"/>
+      <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" alt="Coder Pixel Art" width="420"/>
 
     </td>
   </tr>
@@ -46,12 +38,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in CSE (DS & AI), **SRM University Haryana**  
-- 🤖 Architecting real-world **Generative AI & RAG systems**  
-- 🧠 Experienced in **TensorFlow, LangChain, PyTorch, FastAPI, Next.js, Docker**  
+- 🎓 **B.Tech in CSE (DS & AI)** — SRM University Haryana  
+- 🤖 Architecting real-world **Generative AI, RAG & LLM-powered systems**  
+- 🧠 Experienced with **TensorFlow, PyTorch, LangChain, FastAPI, Next.js, Docker**  
 - ☁️ Deploying on **Vercel, Railway, Google Cloud, Docker**  
-- 🧩 Enjoy designing **system architecture** for scalable AI products  
-- 💼 Interested in **AI Engineer / ML Engineer / Full-Stack AI** roles & internships  
+- 💼 Passionate about **AI architecture, microservices & scalable backend systems**  
 
 ---
 
@@ -60,6 +51,8 @@
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **AI • ML • DL**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -80,7 +73,7 @@
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow Serving](https://img.shields.io/badge/TensorFlow_Serving-FF6F00?style=for-the-badge&logo=tensorflow)
+![TensorFlow Serving](https://img.shields.io/badge/TensorFlow_Serving-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
@@ -90,27 +83,32 @@
 ## 🚀 Featured Projects
 
 ### 🔹 PaperGen – Enterprise Generative AI Platform
-📌 Production-grade RAG system with **zero-loss processing of 200+ page PDFs**  
-- Hybrid Search: **keyword + semantic (FAISS + Gemini)**  
-- Modular **FastAPI + LangChain** microservices  
-- **Next.js** multimodal UI for PDF + chat experience  
-- Containerized with **Docker**, deployed on **Vercel + Railway**  
-**Stack:** Next.js, FastAPI, LangChain, FAISS, Gemini, Docker  
+📌 Production-grade RAG system with **zero information loss on 200+ page PDFs**.  
+
+- Hybrid Search: **Keyword + Semantic (FAISS + Gemini)**  
+- **FastAPI + LangChain** microservices  
+- **Next.js** multimodal frontend  
+- Containerized with **Docker**, deployed via **Railway + Vercel**  
+
+**Tech:** Next.js · FastAPI · LangChain · FAISS · Gemini · Docker  
 
 ---
 
 ### 🔹 Potato Disease Classification (CNN + Deployment)
-- Custom CNN achieving **90%+ accuracy** on leaf disease images  
-- Rest API backend with **FastAPI + TensorFlow Serving**  
-- Frontend built in **React.js** for farmer-friendly UI  
-**Stack:** TensorFlow, FastAPI, Docker, React  
+- Custom CNN achieving **90%+ accuracy** on potato leaf images  
+- **FastAPI backend** with TensorFlow Serving  
+- **React.js UI** for predictions and visualization  
+
+**Tech:** TensorFlow · FastAPI · Docker · React  
 
 ---
 
 ### 🔹 Jarvis – Python Voice Assistant
-- Handles voice commands for search, Q/A, and automation  
-- Integrates **WolframAlpha** and other APIs for knowledge queries  
-**Stack:** `pyttsx3`, `speech_recognition`, WolframAlpha API  
+- Voice commands for **search, apps, and automation**  
+- **WolframAlpha** integration for Q/A  
+- Offline **text-to-speech** & basic assistant features  
+
+**Tech:** Python · pyttsx3 · speech_recognition · WolframAlpha API  
 
 ---
 
@@ -125,12 +123,10 @@
 
 ## 🤝 Connect With Me
 
-> 🔧 **Update these links with your real details if needed**
-
 - 💼 LinkedIn: [linkedin.com/in/ansh-nimboria](https://www.linkedin.com/in/ansh-nimboria)  
 - 🌐 Portfolio: [ansh4303-portfolio.vercel.app](https://ansh4303-portfolio.vercel.app/#home)  
 - 🐙 GitHub: [github.com/Opsitsansh](https://github.com/Opsitsansh)  
-- 📧 Email: ansh4303@gmail.com / ansh.nimboria@gmail.com    
+- 📧 Email: **ansh4303@gmail.com / ansh.nimboria@gmail.com**  
 
 ---
 
