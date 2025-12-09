@@ -19,13 +19,13 @@
   <tr>
     <td width="55%" valign="top">
 
-    🌱 Continually upskilling in emerging technologies and architectural patterns
+   🌱 Continually upskilling in emerging technologies and architectural patterns
 
-    💼 Developing industry-grade solutions that solve real-world business problems
+   💼 Developing industry-grade solutions that solve real-world business problems
 
-    🧩 Bridging the gap between theoretical concepts and production-ready deployments
+   🧩 Bridging the gap between theoretical concepts and production-ready deployments
 
-    ⚡ Focus: Building scalable, efficient, and maintainable software 
+   ⚡ Focus: Building scalable, efficient, and maintainable software 
 
     </td>
     <td width="45%" align="center" valign="top">
