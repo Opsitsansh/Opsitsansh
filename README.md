@@ -1,48 +1,67 @@
-<!-- PROFILE VIEWS -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<!-- TYPING ANIMATION INTRO -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing Animation" />
-  </a>
-</p>
-
-<h3 align="center">A passionate Full Stack AI Engineer from Delhi, India</h3>
-
----
-
-<!-- MAIN HERO SECTION: TEXT + GIF SIDE BY SIDE -->
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="30%" align="center" valign="top">
+      <br />
+      <img src="https://avatars.githubusercontent.com/u/109157936?v=4" alt="Ansh Kumar Nimboria" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 2px solid #30363d;">
+      <br /><br />
 
-      - 🌱 I’m currently working on **PaperGen – an Enterprise Generative AI platform**  
-      - 🧠 Exploring **RAG systems, LLM orchestration, and MLOps pipelines**  
-      - 💻 I regularly build **FastAPI backends, Next.js frontends, and AI microservices**  
-      - 🧩 I enjoy solving **end-to-end problems**: data → model → API → deployment  
-      - ⚡ Fun fact: **Night coding + lo-fi beats = peak productivity**  
-
+      <h3>Connect with me:</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/ansh-nimboria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-nimboria" height="30" width="40" /></a>
+        <a href="https://github.com/Opsitsansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Opsitsansh" height="30" width="40" /></a>
+        <a href="mailto:anshnimboria4@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-gmail.svg" alt="anshnimboria4@gmail.com" height="30" width="40" /></a>
+      </p>
+        <p align="center">
+        🌐 <a href="https://ansh4303-portfolio.vercel.app/#home">Portfolio Website</a>
+        </p>
     </td>
-    <td width="45%" align="center" valign="top">
 
-      <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" alt="Coder Pixel Art" width="420"/>
+    <td width="70%" valign="top">
+
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=Opsitsansh&label=Profile%20views&color=0e75b6&style=flat" />
+      </p>
+
+      <p align="left">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=false&vCenter=true&width=850&lines=Hi%2C+I'm+Ansh+Kumar+Nimboria;Full+Stack+AI+Engineer;Generative+AI+%7C+RAG+%7C+MLOps;FastAPI+%7C+Next.js+%7C+LangChain" alt="Typing Animation" />
+        </a>
+      </p>
+
+      <h3 align="left">A passionate Full Stack AI Engineer from Delhi, India</h3>
+
+      ---
+
+      <table>
+        <tr>
+          <td width="55%" valign="top">
+            <br>
+            <ul>
+                <li>🌱 I’m currently working on **PaperGen – an Enterprise Generative AI platform**</li>
+                <li>🧠 Exploring **RAG systems, LLM orchestration, and MLOps pipelines**</li>
+                <li>💻 I regularly build **FastAPI backends, Next.js frontends, and AI microservices**</li>
+                <li>🧩 I enjoy solving **end-to-end problems**: data → model → API → deployment</li>
+                <li>⚡ Fun fact: **Night coding + lo-fi beats = peak productivity**</li>
+            </ul>
+          </td>
+          <td width="45%" align="center" valign="top">
+            <img src="https://raw.githubusercontent.com/Opsitsansh/Opsitsansh/main/codergif.gif" alt="Coder Pixel Art" width="100%"/>
+          </td>
+        </tr>
+      </table>
 
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in CSE (DS & AI)** — SRM University Haryana  
-- 🤖 Architecting real-world **Generative AI, RAG & LLM-powered systems**  
-- 🧠 Experienced with **TensorFlow, PyTorch, LangChain, FastAPI, Next.js, Docker**  
-- ☁️ Deploying on **Vercel, Railway, Google Cloud, Docker**  
-- 💼 Passionate about **AI architecture, microservices & scalable backend systems**  
+- 🎓 **B.Tech in CSE (DS & AI)** — SRM University Haryana
+- 🤖 Architecting real-world **Generative AI, RAG & LLM-powered systems**
+- 🧠 Experienced with **TensorFlow, PyTorch, LangChain, FastAPI, Next.js, Docker**
+- ☁️ Deploying on **Vercel, Railway, Google Cloud, Docker**
+- 💼 Passionate about **AI architecture, microservices & scalable backend systems**
 
 ---
 
@@ -83,32 +102,32 @@
 ## 🚀 Featured Projects
 
 ### 🔹 PaperGen – Enterprise Generative AI Platform
-📌 Production-grade RAG system with **zero information loss on 200+ page PDFs**.  
+📌 Production-grade RAG system with **zero information loss on 200+ page PDFs**.
 
-- Hybrid Search: **Keyword + Semantic (FAISS + Gemini)**  
-- **FastAPI + LangChain** microservices  
-- **Next.js** multimodal frontend  
-- Containerized with **Docker**, deployed via **Railway + Vercel**  
+- Hybrid Search: **Keyword + Semantic (FAISS + Gemini)**
+- **FastAPI + LangChain** microservices
+- **Next.js** multimodal frontend
+- Containerized with **Docker**, deployed via **Railway + Vercel**
 
-**Tech:** Next.js · FastAPI · LangChain · FAISS · Gemini · Docker  
+**Tech:** Next.js · FastAPI · LangChain · FAISS · Gemini · Docker
 
 ---
 
 ### 🔹 Potato Disease Classification (CNN + Deployment)
-- Custom CNN achieving **90%+ accuracy** on potato leaf images  
-- **FastAPI backend** with TensorFlow Serving  
-- **React.js UI** for predictions and visualization  
+- Custom CNN achieving **90%+ accuracy** on potato leaf images
+- **FastAPI backend** with TensorFlow Serving
+- **React.js UI** for predictions and visualization
 
-**Tech:** TensorFlow · FastAPI · Docker · React  
+**Tech:** TensorFlow · FastAPI · Docker · React
 
 ---
 
 ### 🔹 Jarvis – Python Voice Assistant
-- Voice commands for **search, apps, and automation**  
-- **WolframAlpha** integration for Q/A  
-- Offline **text-to-speech** & basic assistant features  
+- Voice commands for **search, apps, and automation**
+- **WolframAlpha** integration for Q/A
+- Offline **text-to-speech** & basic assistant features
 
-**Tech:** Python · pyttsx3 · speech_recognition · WolframAlpha API  
+**Tech:** Python · pyttsx3 · speech_recognition · WolframAlpha API
 
 ---
 
@@ -121,13 +140,6 @@
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [linkedin.com/in/ansh-nimboria](https://www.linkedin.com/in/ansh-nimboria)  
-- 🌐 Portfolio: [ansh4303-portfolio.vercel.app](https://ansh4303-portfolio.vercel.app/#home)  
-- 🐙 GitHub: [github.com/Opsitsansh](https://github.com/Opsitsansh)  
-- 📧 Email: **ansh4303@gmail.com / ansh.nimboria@gmail.com**  
-
----
-
+<p align="center">
 ⭐ *Always open to collaborations in AI, GenAI systems, and full-stack ML projects.*
+</p>
