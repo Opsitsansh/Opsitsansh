@@ -19,11 +19,13 @@
   <tr>
     <td width="55%" valign="top">
 
-      - 🌱 I’m currently working on **PaperGen – an Enterprise Generative AI platform**  
-      - 🧠 Exploring **RAG systems, LLM orchestration, and MLOps pipelines**  
-      - 💻 I regularly build **FastAPI backends, Next.js frontends, and AI microservices**  
-      - 🧩 I enjoy solving **end-to-end problems**: data → model → API → deployment  
-      - ⚡ Fun fact: **Night coding + lo-fi beats = peak productivity**  
+🌱 Continually upskilling in emerging technologies and architectural patterns
+
+💼 Developing industry-grade solutions that solve real-world business problems
+
+🧩 Bridging the gap between theoretical concepts and production-ready deployments
+
+⚡ Focus: Building scalable, efficient, and maintainable software 
 
     </td>
     <td width="45%" align="center" valign="top">
